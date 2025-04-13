@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.markdown {
+  @apply text-inherit leading-relaxed;
+}
+
+.markdown p {
+  @apply my-2;
+}
+
+.markdown strong {
+  @apply font-bold;
+}
+
+.markdown em {
+  @apply italic;
+}
+
+.markdown ul {
+  @apply list-disc pl-5 my-2;
+}
+
+.markdown ol {
+  @apply list-decimal pl-5 my-2;
+}
+
+.markdown a {
+  @apply text-blue-500 underline;
+}
+
+.markdown h1 {
+  @apply text-xl font-bold my-3;
+}
+
+.markdown h2 {
+  @apply text-lg font-bold my-2;
+}
+
+.markdown h3 {
+  @apply text-base font-bold my-2;
+}
