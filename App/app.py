@@ -526,7 +526,7 @@ import os
 from datetime import datetime
 
 # Set up Gemini API (replace with your actual API key)
-GEMINI_API_KEY = "AIzaSyAOZRzjgX6LSv6FuG3pCmg-kmXJ8guYIdk"
+GEMINI_API_KEY = ""
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Configure the Gemini model
