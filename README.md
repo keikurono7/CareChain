@@ -164,21 +164,6 @@ CareChain/
 4. Push to the branch: ```git push origin feature/amazing-feature```
 5. Open a pull request
 
-## 🔧 Technologies & Frameworks
-
-### Frontend
-- **Web**: React.js
-- **Mobile**: React Native with Expo
-- **Routing**: React Router DOM for web, Expo Router for mobile
-
-### Backend
-- **API Server**: FastAPI (Python)
-
-### Blockchain
-- **Blockchain Platform**: MultiChain
-- **Decentralized Storage**: IPFS
-- **Smart Contract Language**: Python integration with MultiChain APIs
-
 ## 👥 Team
 - [Suprith](https://github.com/Suprith-44) - Blockchain Development & Mobile App
 - [Rakshita S](https://github.com/Rakshitha-21) - Website Development & UI/UX Design
