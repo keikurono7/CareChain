@@ -165,6 +165,7 @@ CareChain/
 5. Open a pull request
 
 ## 👥 Team
+![Our Team](screenshots/7.jpg)
 - [Suprith](https://github.com/Suprith-44) - Blockchain Development & Mobile App
 - [Rakshita S](https://github.com/Rakshitha-21) - Website Development & UI/UX Design
 - [Saniya Naaz](https://github.com/Saniyanaaz11) - Documentation & Research
