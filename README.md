@@ -47,11 +47,11 @@ CareChain.ai is a revolutionary healthcare management platform that combines blo
 
 ### Web Portal (Healthcare Providers)
 Provider-focused dashboard with full patient management capabilities
-![Web Dashboard](screenshots/web-dashboard.png)
+![Web Dashboard](screenshots/3.jpg)
 
 ### Mobile App (Patients)
 Patient-centric mobile experience for health tracking and data access
-![Mobile App](screenshots/mobile-app.png)
+![Mobile App](screenshots/6.jpg)
 
 ## 🔧 Technology Stack
 
